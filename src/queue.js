@@ -22,6 +22,7 @@ class Queue {
 
   getUnderlyingList() {
     throw new NotImplementedError('Not implemented');
+    // return this.get(value, next)
     
   }
 
